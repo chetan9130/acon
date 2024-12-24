@@ -1,0 +1,7 @@
+{
+    "require": {
+        "sendgrid/sendgrid": "*",
+        "phpmailer/phpmailer": "*",
+        "tecnickcom/tcpdf": "*"
+    }
+}
